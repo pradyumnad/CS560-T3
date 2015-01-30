@@ -3,6 +3,10 @@
 ##Description
 Using Android WebView to load a web url
 
+##Requirements
+Android Studio - 1.0.2 
+Android SDK - 4.0.3
+Emulator
 
 ## Screen Shots
 
